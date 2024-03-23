@@ -1,4 +1,4 @@
-//song list
+//songs list
 let songs = [
    {
      name: "Bella ciao",
